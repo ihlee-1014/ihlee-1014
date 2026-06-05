@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a computational biologist passionate about applying bioinformatics to drug discovery and therapeutic development. My work spans integrative multi-omics analysis, NGS pipeline development, and working with full-stack bioinformatics tools. I'm currently interning at the Hou Group of Systems Genomics and Genetics (BU School of Medicine), performing single-cell transcriptomics analysis on lung datasets to identify therapeutic targets for cystic fibrosis, combining cell-cell communication inference and regulatory network analysis to prioritize airway epithelial surface receptors.
 
-Previously, I assisted chemokine receptor research at the Jing An Lab (UCSD School of Medicine) through computational modeling in Python and R. At BU, I've reproduced RNA-Seq and ChIP-Seq analysis pipelines from published literature using Nextflow, and built a full-stack spectral database for tetrapyrrole compounds with Flask and MySQL.
+Previously, I assisted chemokine receptor research at the Jing An Lab (UCSD School of Medicine) through computational modeling in Python and R. At BU, I've reproduced RNA-Seq, ChIP-Seq, and ATAC-seq analysis pipelines from published literature using Nextflow, and built a full-stack spectral database for tetrapyrrole compounds with Flask and MySQL.
 
 Outside of research, I love to learn choreography, crochet, sketch, and read. I also like whales, sharks, and whale sharks, and my favorite Pokémon is Quagsire! :]
 
