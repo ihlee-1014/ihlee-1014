@@ -37,6 +37,11 @@ Connect with me on LinkedIn!
 ![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CellChat](https://img.shields.io/badge/CellChat-276DC3?style=flat-square&logo=r&logoColor=white)
 ![NicheNet](https://img.shields.io/badge/NicheNet-276DC3?style=flat-square&logo=r&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Developer Tools**  
 ![Nextflow](https://img.shields.io/badge/Nextflow-4EACD8?style=flat-square&logo=nextflow&logoColor=white)
@@ -51,7 +56,7 @@ Connect with me on LinkedIn!
 | Category | Tools & Packages |
 |---|---|
 | NGS Workflows | RNA-seq, ChIP-seq, ATAC-seq, scRNA-seq |
-| Pipeline Development | Nextflow, snakemake |
+| Pipeline Development | Nextflow |
 | Alignment & Quantification | STAR, Bowtie2, BWA, VERSE, Trimmomatic, samtools |
 | Differential Expression & Accessibility | DESeq2, DiffBind |
 | Pathway Analysis | GSEA, EnrichR |
